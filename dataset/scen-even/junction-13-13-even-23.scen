@@ -1,0 +1,21 @@
+version 1
+0	junction-13-13.map	13	13	5	0	0	5	7.07
+1	junction-13-13.map	13	13	6	0	12	5	7.81
+2	junction-13-13.map	13	13	5	1	0	6	7.07
+3	junction-13-13.map	13	13	6	1	12	6	7.81
+4	junction-13-13.map	13	13	5	2	1	5	5.00
+5	junction-13-13.map	13	13	6	2	11	5	5.83
+6	junction-13-13.map	13	13	5	3	1	6	5.00
+7	junction-13-13.map	13	13	6	3	11	6	5.83
+8	junction-13-13.map	13	13	5	4	2	5	3.16
+9	junction-13-13.map	13	13	6	4	10	5	4.12
+10	junction-13-13.map	13	13	1	12	12	5	13.04
+11	junction-13-13.map	13	13	2	12	0	5	7.28
+12	junction-13-13.map	13	13	3	12	12	6	10.82
+13	junction-13-13.map	13	13	4	12	0	6	7.21
+14	junction-13-13.map	13	13	5	12	11	5	9.22
+15	junction-13-13.map	13	13	6	12	1	5	8.60
+16	junction-13-13.map	13	13	1	11	11	6	11.18
+17	junction-13-13.map	13	13	2	11	1	6	5.10
+18	junction-13-13.map	13	13	3	11	10	5	9.22
+19	junction-13-13.map	13	13	4	11	2	5	6.32

@@ -1,0 +1,21 @@
+version 1
+0	bottleneck-20-10.map	20	10	0	0	17	9	19.24
+1	bottleneck-20-10.map	20	10	1	0	18	9	19.24
+2	bottleneck-20-10.map	20	10	0	1	19	9	20.62
+3	bottleneck-20-10.map	20	10	1	1	17	8	17.46
+4	bottleneck-20-10.map	20	10	2	0	18	8	17.89
+5	bottleneck-20-10.map	20	10	0	8	17	0	18.79
+6	bottleneck-20-10.map	20	10	1	8	18	0	18.79
+7	bottleneck-20-10.map	20	10	0	9	19	0	21.02
+8	bottleneck-20-10.map	20	10	1	9	17	1	17.89
+9	bottleneck-20-10.map	20	10	2	9	18	1	17.89
+10	bottleneck-20-10.map	20	10	17	0	0	9	19.24
+11	bottleneck-20-10.map	20	10	18	0	1	9	19.24
+12	bottleneck-20-10.map	20	10	19	0	2	9	19.24
+13	bottleneck-20-10.map	20	10	17	1	0	8	18.38
+14	bottleneck-20-10.map	20	10	18	1	1	8	18.38
+15	bottleneck-20-10.map	20	10	17	8	0	0	18.79
+16	bottleneck-20-10.map	20	10	18	8	1	0	18.79
+17	bottleneck-20-10.map	20	10	19	8	2	0	18.79
+18	bottleneck-20-10.map	20	10	17	9	0	1	18.79
+19	bottleneck-20-10.map	20	10	18	9	1	1	18.79
